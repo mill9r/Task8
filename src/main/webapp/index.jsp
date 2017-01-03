@@ -1,8 +1,8 @@
 <html>
 <body>
-<form action="/do">
-    <input name="query" type="text" />
-    <input type="submit" />
+<form action="RetrieveFromBD.jsp">
+    <input name="query" type="text"/>
+    <input type="submit"/>
 </form>
 </body>
 </html>
